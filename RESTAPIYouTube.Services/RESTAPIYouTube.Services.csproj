@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RESTAPIYouTube.DataAccess.Dapper\RESTAPIYouTube.DataAccess.Dapper.csproj" />
+    <ProjectReference Include="..\RESTAPIYouTube.Domain\RESTAPIYouTube.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

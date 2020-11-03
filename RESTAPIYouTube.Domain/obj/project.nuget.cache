@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0uFzNyCl23S8ylqcMjYUkwKawdZyU8wv2QZTi98hSMuqSTfyHnojH3v2I3hYigqt8mKZzwLb37chs/JX0eMQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GD0024\\source\\repos\\RESTAPIYouTube\\RESTAPIYouTube.Domain\\RESTAPIYouTube.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GD0024\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GD0024\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

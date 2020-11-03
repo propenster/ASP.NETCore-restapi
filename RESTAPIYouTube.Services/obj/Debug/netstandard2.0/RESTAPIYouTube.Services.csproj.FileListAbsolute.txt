@@ -1,0 +1,14 @@
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\bin\Debug\netstandard2.0\RESTAPIYouTube.Services.deps.json
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\bin\Debug\netstandard2.0\RESTAPIYouTube.Services.dll
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\bin\Debug\netstandard2.0\RESTAPIYouTube.Services.pdb
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\bin\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.dll
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\bin\Debug\netstandard2.0\RESTAPIYouTube.Domain.dll
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\bin\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.pdb
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\bin\Debug\netstandard2.0\RESTAPIYouTube.Domain.pdb
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\obj\Debug\netstandard2.0\RESTAPIYouTube.Services.csprojAssemblyReference.cache
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\obj\Debug\netstandard2.0\RESTAPIYouTube.Services.AssemblyInfoInputs.cache
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\obj\Debug\netstandard2.0\RESTAPIYouTube.Services.AssemblyInfo.cs
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\obj\Debug\netstandard2.0\RESTAPIYouTube.Services.csproj.CoreCompileInputs.cache
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\obj\Debug\netstandard2.0\RESTAPIYouTube.Services.csproj.CopyComplete
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\obj\Debug\netstandard2.0\RESTAPIYouTube.Services.dll
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.Services\obj\Debug\netstandard2.0\RESTAPIYouTube.Services.pdb

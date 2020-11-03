@@ -1,0 +1,12 @@
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\bin\Debug\netstandard2.0\RESTAPIYouTube.Domain.dll
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\obj\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.csprojAssemblyReference.cache
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\obj\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\obj\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.AssemblyInfo.cs
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\bin\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.deps.json
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\bin\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.dll
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\bin\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.pdb
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\bin\Debug\netstandard2.0\RESTAPIYouTube.Domain.pdb
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\obj\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\obj\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.csproj.CopyComplete
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\obj\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.dll
+C:\Users\GD0024\source\repos\RESTAPIYouTube\RESTAPIYouTube.DataAccess.Dapper\obj\Debug\netstandard2.0\RESTAPIYouTube.DataAccess.Dapper.pdb

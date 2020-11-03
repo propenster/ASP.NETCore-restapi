@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPIYouTube", "RESTAPIYouTube\RESTAPIYouTube.csproj", "{15A6156D-DE74-4855-A63E-A409F87C0231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPIYouTube.Domain", "RESTAPIYouTube.Domain\RESTAPIYouTube.Domain.csproj", "{4E9EA878-C669-49BB-89F7-344E92DA0E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPIYouTube.DataAccess.Dapper", "RESTAPIYouTube.DataAccess.Dapper\RESTAPIYouTube.DataAccess.Dapper.csproj", "{2583001A-E3D7-4639-B405-CE816AA2E8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTAPIYouTube.Services", "RESTAPIYouTube.Services\RESTAPIYouTube.Services.csproj", "{66A99D5B-134F-4623-AADD-BE7D7F4FCDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A6156D-DE74-4855-A63E-A409F87C0231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A6156D-DE74-4855-A63E-A409F87C0231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A6156D-DE74-4855-A63E-A409F87C0231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A6156D-DE74-4855-A63E-A409F87C0231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9EA878-C669-49BB-89F7-344E92DA0E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9EA878-C669-49BB-89F7-344E92DA0E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9EA878-C669-49BB-89F7-344E92DA0E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9EA878-C669-49BB-89F7-344E92DA0E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2583001A-E3D7-4639-B405-CE816AA2E8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2583001A-E3D7-4639-B405-CE816AA2E8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2583001A-E3D7-4639-B405-CE816AA2E8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2583001A-E3D7-4639-B405-CE816AA2E8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A99D5B-134F-4623-AADD-BE7D7F4FCDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A99D5B-134F-4623-AADD-BE7D7F4FCDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A99D5B-134F-4623-AADD-BE7D7F4FCDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A99D5B-134F-4623-AADD-BE7D7F4FCDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B141083-F0A5-44A2-9D09-F9D7C4BC2449}
+	EndGlobalSection
+EndGlobal
